@@ -369,7 +369,7 @@ main .galeria .img6:hover {
 }
 
 footer {
-  background: #e17;
+  background: #e27;
   padding: 60px 0 30px 0;
   margin: auto;
   overflow: hidden;
@@ -398,7 +398,7 @@ footer .contenedor-footer .contenedor-foo .contenedor-foo .h4 .contenedor-foo p 
 
 .footer2 {
   grid-area: footer;
-  background: #e17;
+  background: #e27;
   padding: 60px 0 30px 0;
   margin: auto;
   overflow: hidden;
